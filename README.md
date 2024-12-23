@@ -22,5 +22,5 @@ Peddy is a responsive web platform that simplifies the pet adoption process by e
 
 ![Preview Image](preview.png)
 
-[Click here to view the live website](https://pet-adoption-srk.netlify.app/)
+[Click here to view the live website](https://shahrukkabir.github.io/Pet-Adoption/)
 
